@@ -23,7 +23,6 @@
 - 🌐 **Web Development**: building clean, responsive web apps with HTML, CSS, JavaScript & Laravel
 - 💻 **Software Engineering**: writing Android and Java apps like **CiviReport** and **CashOut**
 - 🤖 **Vibe Coder**: I team up with AI coding tools to go from idea to working app, fast
-- 🔭 Currently building **CashOut**, a digital wallet with facial recognition login
 - 🌱 Always learning and leveling up, one project at a time
 
 ## 🛠️ Tech Stack
