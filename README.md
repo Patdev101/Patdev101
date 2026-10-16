@@ -63,7 +63,7 @@
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/Patdev101/Guest-Accommodation-System-"><img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:8FD694&height=300&text=Guest%20Accommodation&fontSize=64&fontAlignY=44&fontColor=ffffff&desc=Hospitality%20%E2%80%A2%20Front%20Desk&descSize=42&descAlignY=70" alt="Guest Accommodation System" /></a>
-      <p>A full front-desk system: <b>reservations</b>, group bookings, check-in and check-out, billing, extensions, a week calendar and <b>automated staff alerts</b>, with tests running on every push.</p>
+      <p>A full accommodation system Airbnb Style/: <b>reservations</b>, group bookings, check-in and check-out, billing, extensions, a week calendar and <b>automated staff alerts</b>, with tests running on every push.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
